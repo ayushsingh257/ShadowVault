@@ -1,0 +1,56 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environments
+.env
+.env.local
+.env.*.local
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Node / Frontend
+node_modules/
+.next/
+out/
+build/
+dist/
+*.tsbuildinfo
+.npm
+.yarn/
+
+# Testing & Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+coverage/
+.playwright/
+test-results/
+
+# IDE & Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Logs & Databases
+*.log
+logs/
+*.sqlite
+*.sqlite3
+neo4j_data/
+pg_data/
+redis_data/
+
+# OS / Temporary
+tmp/
+temp/
